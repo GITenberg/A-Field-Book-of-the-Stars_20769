@@ -1,0 +1,29 @@
+_repo: A-Field-Book-of-the-Stars_20769
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Olcott, William Tyler
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '9524'
+    url: http://www.gutenberg.org/2009/agents/9524
+    wikipedia: http://en.wikipedia.org/wiki/William_Tyler_Olcott
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2007-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20769'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy'
+- !lcsh 'Constellations'
+title: A Field Book of the Stars
+url: http://www.gutenberg.org/ebooks/20769
