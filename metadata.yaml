@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9524
     wikipedia: http://en.wikipedia.org/wiki/William_Tyler_Olcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20769#A-Field-Book-of-the-Stars
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2007-03-09'
 gutenberg_type: Text
